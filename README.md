@@ -26,10 +26,9 @@ Passionate about software engineering, Cyber Security basics, Networking basics,
 
 ## 📂 Projects
 
-> *(Add more projects by adding rows in the table with your links)*
 
 ## 📊 GitHub Stats
-![Yossef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssef-011&show_icons=true&theme=dark&hide_border=true)
+![Yossef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssef-011&show_icons=true&theme=radical&hide_border=true)
 
 ## 🔥 GitHub Streak
 ![Yossef's Streak](https://github-readme-streak-stats.herokuapp.com/?user=youssef-011&theme=dark&hide_border=true)

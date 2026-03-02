@@ -1,5 +1,5 @@
 
-**# 👋 Hi, I'm Yossef Zanhome
+# 👋 Hi, I'm Yossef Zanhome
 
 ## 🎓 About Me
 I'm a university student at **AASTMT (Arab Academy for Science, Technology & Maritime Transport)**, learning Web Development and aiming to become a Full-Stack Developer.  

@@ -1,7 +1,7 @@
 
-# 👋 Hi, I'm Yossef Zanhome
+#  Hi, I'm Yossef Zanhome
 
-## 🎓 About Me
+##  About Me
 I'm a university student at **AASTMT (Arab Academy for Science, Technology & Maritime Transport)**, learning Web Development and aiming to become a Full-Stack Developer.  
 Passionate about software engineering, Cyber Security basics, Networking basics, and building projects from scratch.
 
@@ -25,11 +25,6 @@ Passionate about software engineering, Cyber Security basics, Networking basics,
 </div>
 
 ## 📂 Projects
-| Project | Description | Link |
-|---------|------------|------|
-| My Portfolio | Personal Frontend Portfolio | [View](https://your-portfolio-link.com) |
-| Web App Project | Full-Stack Web Application | [View](https://github.com/youssef-011/your-project) |
-| Java OOP Project | Object-Oriented Java App | [View](https://github.com/youssef-011/java-oop-project) |
 
 > *(Add more projects by adding rows in the table with your links)*
 

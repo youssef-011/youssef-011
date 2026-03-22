@@ -50,5 +50,3 @@ Currently focusing on developing mobile applications and expanding my understand
 ## GitHub Streak
 ![Yossef's Streak](https://github-readme-streak-stats.herokuapp.com/?user=youssef-011&theme=tokyonight&hide_border=true)
 
-## Profile Views
-![](https://komarev.com/ghpvc/?username=youssef-011&style=for-the-badge)

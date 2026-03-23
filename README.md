@@ -66,7 +66,3 @@ A productivity app built with Flutter, designed around a calm island concept to 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-011&theme=tokyonight&hide_border=true" width="32%" />
 </p>
 
-## 🧩Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-011&layout=compact&theme=tokyonight&hide_border=true" />
-</p>

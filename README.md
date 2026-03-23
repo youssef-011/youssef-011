@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:2c5364&height=200&section=header&text=Yossef%20Zanhome&fontSize=40&fontColor=ffffff"/>
-
 # Hi, I'm Yossef Zanhome
 
 <h3 align="center">Building mobile apps and turning ideas into real products</h3>
@@ -71,10 +69,3 @@ A productivity app built with Flutter, designed around a calm island concept to 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-011&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-## Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=youssef-011&style=for-the-badge" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:2c5364&height=120&section=footer"/>

@@ -64,7 +64,22 @@ A productivity app built with Flutter, designed around a calm island concept to 
   <img src="https://github-readme-stats.vercel.app/api?username=youssef-011&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-011&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
+## 📌 Featured Projects
 <p align="center">
+  <a href="https://github.com/youssef-011/focus-island">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssef-011&repo=focus-island&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/youssef-011/FixNow-Cars">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssef-011&repo=FixNow-Cars&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  Modified by Yossef | © 2026  
+  <br/>
+  <i>Build. Improve. Repeat.</i>
+</p>
   Modified by Yossef | © 2026  
   <br/>
   <i>Build. Improve. Repeat.</i>

@@ -3,7 +3,7 @@
 <h3 align="center">Building mobile apps and turning ideas into real products</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real+Apps+with+Flutter;Turning+Ideas+into+Products;Focus+Island+in+Progress;Problem+Solver+and+Software+Explorer&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real+Apps+with+Flutter;Turning+Ideas+into+Products;Focus+Island+in+Progress;Problem+Solver+and+Software+Explorer&center=true&width=600&height=45" alt="Typing SVG" />
 </p>
 
 ## About Me
@@ -13,16 +13,16 @@ I enjoy turning ideas into working products, exploring how systems are designed,
 
 Currently focused on developing mobile applications with Flutter while continuing to strengthen my programming, problem-solving, and software engineering skills through hands-on projects.
 
-## 🌐Connect With Me
+## 🌐 Connect With Me
 <p align="left">
   <a href="https://discord.com/users/1275239739229732875">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://www.linkedin.com/in/yossef-zanhome-081b1732b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:yossefzanhome@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -59,19 +59,26 @@ A productivity app built with Flutter, designed around a calm island concept to 
 - Status: In Progress
 - Code: [Focus Island](https://github.com/youssef-011/focus-island)
 
+### 🔧 FixNow Cars
+A car service management web project built to handle users, technicians, requests, services, reports, and receipts.
+
+- Tech Stack: PHP, MySQL, HTML, CSS, JavaScript
+- Status: Completed
+- Code: [FixNow Cars](https://github.com/youssef-011/FixNow-Cars)
+
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssef-011&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-011&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=youssef-011&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-011&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 ## 📌 Featured Projects
 <p align="center">
   <a href="https://github.com/youssef-011/focus-island">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssef-011&repo=focus-island&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssef-011&repo=focus-island&theme=tokyonight&hide_border=true" alt="Focus Island Repo" />
   </a>
   <a href="https://github.com/youssef-011/FixNow-Cars">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssef-011&repo=FixNow-Cars&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssef-011&repo=FixNow-Cars&theme=tokyonight&hide_border=true" alt="FixNow Cars Repo" />
   </a>
 </p>
 
@@ -80,8 +87,3 @@ A productivity app built with Flutter, designed around a calm island concept to 
   <br/>
   <i>Build. Improve. Repeat.</i>
 </p>
-  Modified by Yossef | © 2026  
-  <br/>
-  <i>Build. Improve. Repeat.</i>
-</p>
-

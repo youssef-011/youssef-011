@@ -1,94 +1,51 @@
-# 👋 Hi, I'm Yossef Zanhome
+# Hi, I'm Yossef Zanhome
 
-<img align="right" src="YOUR_ANIMATION_HERE" width="250">
+## About Me
 
-### 💻 Software Engineering Student | Builder | Problem Solver
+I'm a student at **AASTMT (Arab Academy for Science, Technology & Maritime Transport)** with a growing interest in building real-world software applications.
 
-I'm a Software Engineering student at **AASTMT (Arab Academy for Science, Technology & Maritime Transport)** who enjoys turning ideas into working software and understanding how things work under the hood.
+I enjoy turning ideas into working products, exploring how systems are designed, and improving user experiences through clean and functional implementations.
 
-I'm currently building a strong **Software Engineering foundation** through hands-on learning, real projects, problem solving, and continuous experimentation.
+Currently focused on developing mobile applications with Flutter while continuing to strengthen my programming, problem-solving, and software engineering skills through hands-on projects.
 
-I'm not limiting myself to one specialization yet — I'm exploring different areas of software development and figuring out where I can build, solve, and grow the most.
+## 🌐Connect With Me
 
----
+## Tech Stack
 
-## 🧠 What I'm Working On
+### Core Focus
 
-🐍 Learning and building with **Python**
 
-🐧 Exploring **Linux & system fundamentals**
 
-🔧 Strengthening my **Git & GitHub workflow**
 
-🧠 Improving **problem-solving & programming fundamentals**
+### Programming Languages
 
-🛠️ Building projects and experiments inside my **Software Engineering Lab**
 
-🌐 Exploring different areas of Software Engineering before choosing a specialization
 
----
 
-## 🛠️ Tech Stack
 
-### 💻 Programming Languages
 
-![Python](...)
-![Java](...)
-![Dart](...)
-![JavaScript](...)
-![PHP](...)
+### Web Background
 
-### 🌐 Web & Application Development
 
-![HTML5](...)
-![CSS3](...)
-![JavaScript](...)
-![Flutter](...)
 
-### 🔧 Tools & Technologies
 
-![Git](...)
-![GitHub](...)
-![Linux](...)
-![VS Code](...)
 
----
 
-## 🚀 Projects
+### Tools and Technologies
+
+
+
+
+
+
+## Projects
 
 ### 🌴 Focus Island
 
-A productivity app built around a calm island concept, designed to help users stay focused while making the experience more engaging and enjoyable.
+A productivity app built with Flutter, designed around a calm island concept to improve focus and user engagement.
 
-**Tech Stack:** Dart · Flutter
+- Tech Stack: Dart, Flutter
+- Status: In Progress
+- Code: [Focus Island](https://github.com/youssef-011/focus-island)
 
-**Status:** In Progress
-
-🔗 [View Project](https://github.com/youssef-011/focus-island)
-
----
-
-### 🧪 Software Engineering Lab
-
-My personal learning and experimentation space where I practice software engineering concepts, explore technologies, build small projects, and document my progress.
-
-**Current Focus:**
-
-🐍 Python · 🐧 Linux · 🔧 Git & GitHub · 🧠 Problem Solving
-
-🔗 [View Repository](https://github.com/youssef-011/software-engineering-lab)
-
----
-
-## 📈 GitHub Activity
-
-<!-- GitHub Stats -->
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, building, and connecting with people who enjoy technology and creating things.
-
-[GitHub](...)
-[LinkedIn](...)
+## 📊GitHub Stats

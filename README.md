@@ -1,51 +1,48 @@
-# Hi, I'm Yossef Zanhome
+Hi, I'm Yossef Zanhome
 
-## About Me
+        [ANIMATION]
 
-I'm a student at **AASTMT (Arab Academy for Science, Technology & Maritime Transport)** with a growing interest in building real-world software applications.
+About Me
+────────────────────────
 
-I enjoy turning ideas into working products, exploring how systems are designed, and improving user experiences through clean and functional implementations.
+Software Engineering student...
+Real-world software...
+Programming / problem solving...
+Exploring different areas...
 
-Currently focused on developing mobile applications with Flutter while continuing to strengthen my programming, problem-solving, and software engineering skills through hands-on projects.
+🌐 Connect With Me
 
-## 🌐Connect With Me
+Tech Stack
+────────────────────────
 
-## Tech Stack
+Core Focus
+[LOGOS] [LOGOS] [LOGOS]
 
-### Core Focus
+Programming Languages
+[LOGOS] [LOGOS] [LOGOS]
 
+Web Background
+[LOGOS] [LOGOS] [LOGOS]
 
+Tools and Technologies
+[LOGOS] [LOGOS] [LOGOS]
 
+Projects
+────────────────────────
 
-### Programming Languages
+🌴 Focus Island
+description
+tech stack
+status
+code
 
+🧪 Software Engineering Lab
+description
+current focus
+status
+code
 
+📊 GitHub Stats
+────────────────────────
 
-
-
-
-### Web Background
-
-
-
-
-
-
-### Tools and Technologies
-
-
-
-
-
-
-## Projects
-
-### 🌴 Focus Island
-
-A productivity app built with Flutter, designed around a calm island concept to improve focus and user engagement.
-
-- Tech Stack: Dart, Flutter
-- Status: In Progress
-- Code: [Focus Island](https://github.com/youssef-011/focus-island)
-
-## 📊GitHub Stats
+[STATS / ANIMATION]
